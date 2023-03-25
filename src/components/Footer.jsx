@@ -17,7 +17,7 @@ const Footer = () => {
       <Stack direction={['column', 'row']}>
         <VStack alignItems={'stretch'} width={'full'} px={'4'}>
           <Heading textTransform={'uppercase'} size={'md'} margin={'auto'}>
-            Subscribe to get Updates
+            Want to improve this Project?
           </Heading>
           <HStack py="2px">
             <Input
